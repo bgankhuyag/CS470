@@ -1,1 +1,1 @@
-# CS470
+# CS470 Senior Project
